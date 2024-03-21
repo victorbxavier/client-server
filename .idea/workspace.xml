@@ -1,0 +1,127 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ArtifactsWorkspaceSettings">
+    <artifacts-to-build>
+      <artifact name="client-chatbot:jar" />
+    </artifacts-to-build>
+  </component>
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="a1f5f280-bd95-4f52-977f-1039f0db2922" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/../AlgorithmCourse/Algorithms, Part I.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BronKerboschAlgorithm/BronKerboschImplementation.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BronKerboschAlgorithm/src/br/imd/ufrn/BronKerboschAlgorithm.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/artifacts/client_chatbot_jar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.mvn/wrapper/MavenWrapperDownloader.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.mvn/wrapper/maven-wrapper.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.mvn/wrapper/maven-wrapper.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mvnw" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mvnw.cmd" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/br/dimap/Client.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/META-INF/MANIFEST.MF" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../introducao.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../introducao/src/main/java/com/daal/introducao/EstudanteController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Aula21_IMD0040.zip" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../FakeNews_Detector" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Lp2_Aula19.zip" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Lp2_Aula22_visao.zip" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../PraticaClasseAbstrata(20200049368).rar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../aula3Pratica_20200049368.rar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../aula6Pratica_20200049368.rar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../pratica3Heranca(20200049368).rar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../projeto_final" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../projetos_fakeNews/Detector-de-fake-news" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../projetos_fakeNews/Detector_de_Fake_News" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../provaHeranca(20200049368).rar" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="KubernetesApiProvider">{
+  &quot;isMigrated&quot;: true
+}</component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 2
+}</component>
+  <component name="ProjectId" id="2dzsngUTBVCetDyVPYvMUS8GrfV" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Application.Client.executor": "Run",
+    "JAR Application.client-run.executor": "Run",
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "git-widget-placeholder": "master",
+    "kotlin-language-version-configured": "true",
+    "last_opened_file_path": "C:/Users/Victor Xavier/Documents/cod_java/client-chatbot",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "project.structure.last.edited": "Artifacts",
+    "project.structure.proportion": "0.15",
+    "project.structure.side.proportion": "0.2",
+    "vue.rearranger.settings.migration": "true"
+  }
+}]]></component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\Victor Xavier\Documents\cod_java\client-chatbot" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration name="client-run" type="JarApplication">
+      <option name="JAR_PATH" value="$PROJECT_DIR$/out/artifacts/client_chatbot_jar/client-chatbot.jar" />
+      <option name="WORKING_DIRECTORY" value="C:\Users\Victor Xavier\Documents\cod_java\client-chatbot" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <method v="2">
+        <option name="BuildArtifacts" enabled="true">
+          <artifact name="client-chatbot:jar" />
+        </option>
+      </method>
+    </configuration>
+  </component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="jdk-21.0.2-openjdk-21.0.2-4caba194b151-4f524021" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="a1f5f280-bd95-4f52-977f-1039f0db2922" name="Changes" comment="" />
+      <created>1711022412595</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1711022412595</updated>
+      <workItem from="1711022413695" duration="1556000" />
+      <workItem from="1711027969828" duration="2814000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+</project>
